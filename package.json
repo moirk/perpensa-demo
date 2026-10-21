@@ -1,0 +1,9 @@
+{
+  "name": "perpensa-demo",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Intentionally vulnerable demo for Perpensa scans",
+  "dependencies": {
+    "@tanstack/start-server-core": "1.169.38"
+  }
+}
